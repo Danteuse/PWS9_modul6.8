@@ -1,0 +1,33 @@
+h1 {
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 30px;
+
+}
+
+
+.anyButtons {
+	display: block;
+	text-align: center;
+}
+
+.progress {
+	margin-top: 50px;
+	height: 60px;
+	} 
+
+.progress-bar {
+	align-items: center;
+}
+
+.progress p {
+	font-size: 15px;
+}
+
+.btn {
+	margin: 10px;
+}
+
+.not-visible {
+	visibility: hidden;
+}
